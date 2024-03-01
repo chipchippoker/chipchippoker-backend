@@ -5,9 +5,29 @@
 
 - ✅ https://chipchippoker.shop
 
+---
+
 ## 🕊️ API 명세서
 
 - ✅ [API 명세서](https://political-donut-900.notion.site/API-Sheet-66c4d962ae31441c84930ca84902e946?pvs=4)
+
+---
+
+
+<a name="service-layout"></a>
+## 🏠 Service Layout
+
+| <img src="https://github.com/chipchippoker/chipchippoker-backend/assets/76430979/03aca288-0a63-443a-b87f-2f65013c3397" width="250"> | <img src="https://github.com/chipchippoker/chipchippoker-backend/assets/76430979/f2d8ffba-9cea-448f-a85e-28bc287a8938" width="250">  | <img src="https://github.com/chipchippoker/chipchippoker-backend/assets/76430979/78bc00ce-400f-46ad-9798-1bcc81711ed3" width="250"> |
+|:----------------------------------:|:----------------------------------------------:|:------------------------------------------------------------:|
+|              게임 화면 1               |                    게임 화면 2                     |                           게임 화면 3                            |
+
+|     <img src="https://github.com/chipchippoker/chipchippoker-backend/assets/76430979/d3df9bbe-05b1-4a56-8024-c5248b021905" width="250">      | <img src="https://github.com/chipchippoker/chipchippoker-backend/assets/76430979/d7a97c29-61b8-4192-812b-1f16fcc8996f" width="250"> | <img src="https://github.com/chipchippoker/chipchippoker-backend/assets/76430979/726aee05-d437-442e-afb9-8c5eaab32350" width="250"> |
+|:------------------------------------------------------:|:----------------------------------------------------------:|:-----------------------------------------------------------:|
+|                         랭킹 화면                          |                            가이드북                            |                           프로필 화면                            |
+
+<br>
+
+---
 
 ## 📚 목차
 
@@ -18,6 +38,8 @@
 - [ERD](#erd)
 - [Return Object](#return-object)
 
+---
+
 <a name="backend-teams"></a>
 
 ## 🤝 팀원 소개
@@ -26,7 +48,7 @@
 |:------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
 |                                  [임세환](https://github.com/Torres-09)                                   |                                 [권순준](https://github.com/hgfdsa4320)                                 |                                [선수연](https://github.com/SuyeonSun)                                 |
 
-
+---
 
 <a name="role"></a>
 ## 🙋‍♂️ 역할
@@ -59,6 +81,8 @@
 - Jenkins & Docker 기반의 자동 빌드 및 배포 인프라 구축
 - Grafana & Prometheus 이용한 JVM 모니터링 시스템 구축
 
+---
+
 <a name="skills"></a>
 ## 🛠️ 기술 스택
 
@@ -86,6 +110,8 @@
 - WebRTC & OpenVidu
 - Prometheus & Grafana
 
+---
+
 
 <a name="system-architecture"></a>
 
@@ -96,6 +122,8 @@
 ## 💾 ERD
 
 <img src="https://github.com/chipchippoker/chipchippoker-backend/assets/76430979/c963b096-f23f-4914-bb9c-99cf8a014374" width="700" alt="erd">
+
+---
 
 <a name="return-object"></a>
 
