@@ -89,11 +89,11 @@
 <a name="service-layout"></a>
 ## 🏠 Service Layout
 
-| <img src="https://url.kr/td8fm1" width="250"> | <img src="https://url.kr/rx4l5f" width="250">  | <img src="https://url.kr/xbl6cv" width="250"> |
+| <img src="https://github.com/chipchippoker/chipchippoker-backend/assets/76430979/03aca288-0a63-443a-b87f-2f65013c3397" width="250"> | <img src="https://github.com/chipchippoker/chipchippoker-backend/assets/76430979/f2d8ffba-9cea-448f-a85e-28bc287a8938" width="250">  | <img src="https://github.com/chipchippoker/chipchippoker-backend/assets/76430979/78bc00ce-400f-46ad-9798-1bcc81711ed3" width="250"> |
 |:----------------------------------:|:----------------------------------------------:|:------------------------------------------------------------:|
 |              게임 화면 1               |                    게임 화면 2                     |                           게임 화면 3                            |
 
-|     <img src="https://url.kr/a4ikqo" width="250">      | <img src="https://url.kr/bghnx3" width="250"> | <img src="https://url.kr/y4lsxc" width="250"> |
+|     <img src="https://github.com/chipchippoker/chipchippoker-backend/assets/76430979/d3df9bbe-05b1-4a56-8024-c5248b021905" width="250">      | <img src="https://github.com/chipchippoker/chipchippoker-backend/assets/76430979/d7a97c29-61b8-4192-812b-1f16fcc8996f" width="250"> | <img src="https://github.com/chipchippoker/chipchippoker-backend/assets/76430979/726aee05-d437-442e-afb9-8c5eaab32350" width="250"> |
 |:------------------------------------------------------:|:----------------------------------------------------------:|:-----------------------------------------------------------:|
 |                         랭킹 화면                          |                            가이드북                            |                           프로필 화면                            |
 
